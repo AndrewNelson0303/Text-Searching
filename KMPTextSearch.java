@@ -60,7 +60,7 @@
     This program will ask the user to type a 2 Strings into the terminal.
     The first String is the main text and the second String is the pattern.
     The kmpSearch method will then be called and use the createTab method.
-    The method will create an arraylist that stores where the indices Iof the text where pattern is found within.
+    The method will create an arraylist that stores where the indices of the text where pattern is found within.
     If array is empty, unique string will tell user.
     Else it will print out the arraylist and tell user how many times the pattern is in the text.
      */
